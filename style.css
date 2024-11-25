@@ -43,3 +43,28 @@ table{
 .grey {
     color: rgb(156, 146, 146);
 }
+.photo-1 {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    width: 300px;
+    height: 200px;
+    background-image: url(./img/monitor.jpg);
+    background-repeat: no-repeat;
+    margin-bottom: 10px;
+}
+.photo-2 {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    width: 300px;
+    height: 200px;
+    background-image: url(./img/graph.jpg);
+    background-repeat: no-repeat;
+    margin-bottom: 10px;
+}
+.px {
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 10px;
+}
