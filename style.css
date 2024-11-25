@@ -1,0 +1,45 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+.pattern {
+    background-color: blue;
+    background-size: cover;
+    height: 50px;
+}
+h1 {
+    margin-bottom: 0;
+}
+.subtitle {
+    color: rgb(156, 146, 146);
+}
+#lightblue {
+    color: rgb(21, 223, 223);
+}
+.text-yellow{
+    background-color: yellowgreen;
+}
+table{
+    display: block;
+
+}
+.first{
+    background-color: blue;
+    color: white;
+    display: inline-block;
+}
+.row {
+    display: inline-block;
+    height: 50px;
+} 
+.space {
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.lightblue {
+    background-color: aqua;
+}
+.grey {
+    color: rgb(156, 146, 146);
+}
