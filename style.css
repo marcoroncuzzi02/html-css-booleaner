@@ -3,9 +3,14 @@
     padding: 0;
 } */
 .pattern {
-    height: 50px;
-    background: url(./img/pattern.png) repeat;
-    background-size: contain;
+    height: 80px;
+    background: url(./img/pattern.png) repeat center;
+    background-color: #4EA0FF;
+}
+.title-image{
+    display: inline-block;
+    width: 150px;
+    margin-top: 30px;
 }
 h1 {
     margin-bottom: 0;
@@ -14,32 +19,27 @@ h1 {
     color: rgb(156, 146, 146);
 }
 #lightblue {
-    color: rgb(21, 223, 223);
+    color: #B1E5F2;
 }
 .text-yellow{
     background-color: yellowgreen;
 }
-table{
-    display: block;
-
-}
-.first{
-    background-color: blue;
+ thead{
     color: white;
-    display: inline-block;
-}
-.row {
-    display: inline-block;
+    background-color: #4EA0FF;
+ }
+ td{
     height: 50px;
-} 
-.space {
-    display: inline-block;
-    margin-left: 20px;
-    margin-right: 20px;
-}
-.lightblue {
-    background-color: aqua;
-}
+ }
+ table {
+    text-align: left;
+ }
+ .big {
+    width: 300px;
+ }
+ .color-light {
+    background-color:#B1E5F2 ;
+ }
 .grey {
     color: rgb(156, 146, 146);
 }
